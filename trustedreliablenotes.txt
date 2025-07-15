@@ -1,0 +1,25 @@
+Trusted/reliable
+Examples of reliable sources:
+Government websites. Implicitly high(ish) trust level. Why? Generally a lack of conflict of interest.
+Not for profit.
+Accountability. Many eyes watching.
+High transparency.
+If there is low/no conflict of interest, increases implicit trust.
+Raw data taken by instruments of known accuracy and bias has a calculable accuracy or precision
+Verifiable/able to be cross-referenced with another source. E.g. when running a Google search, compare multiple sources.
+Tests for trustworthiness:
+Five (or maybe 4½) "W"s:
+Who is the author.
+What is the purpose of the content?
+Where is the content from?
+Why does the source exist?
+How does it compare to others.
+CRAAP test (to evaluate your sources):
+Currency - the timeliness of the information.
+Relevance - the importance of the information for your needs.
+Authority - the source of the information.
+Accuracy - the reliability, truthfulness, and correctness of the content.
+Purpose -
+Textbooks.
+Scientific papers/reviews. Peer-reviewed.
+Peer review. Other experts (peers) are invited to scrutinise the methods and findings of a scientific paper. Only if peer review is passed is the paper published. It all sounds good in theory, and surely has a net positive effect on the quality of published papers.
